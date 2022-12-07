@@ -1,0 +1,14 @@
+.Whiteboard {
+  height: 50rem;
+  width: 100rem;
+  border: 1px solid black;
+
+  position: relative;
+  overflow: hidden;
+
+  border-radius: 10px 10px 0px 0px;
+}
+
+.Whiteboard:hover {
+  cursor: pointer;
+}

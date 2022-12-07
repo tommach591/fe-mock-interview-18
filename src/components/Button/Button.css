@@ -1,0 +1,21 @@
+.Button {
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 10rem;
+  height: 3rem;
+
+  margin: 1rem;
+  border-radius: 10px;
+  background: white;
+}
+
+.Button > h2 {
+  margin: 0.5rem;
+}
+
+.Button:hover {
+  cursor: pointer;
+}
